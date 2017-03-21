@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
     gfx_clear(0, 0);  
     gfx_setbgcolor(0);
     gfx_setcolor(15);
-    gfx_text(170, 10, 2, 1, "Random histogramm");
+    gfx_text(170, 10, 2, 1, "Random histogram");
     gfx_text(200, 390, 1, 1, "Press any key to close...");
     gfx_text(50, 386, 1, 1, "0");
     gfx_text(566, 386, 1, 1, "255"); //X
