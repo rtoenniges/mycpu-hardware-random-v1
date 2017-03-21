@@ -10,7 +10,8 @@ A hardware random number generator for the MyCPU based on the work of [Aaron Log
 
 ## Features
 * Address selectable through jumpers
-* Two independent noise generators (both adjustable through trimmers)
+* Two independent noise generators
+* Both noise generators were adjustable through trimmers (For justage please use this [software](/hist_prg))
 * Generates 2x 16bit random numbers simultaneously
 * Fetch frequenz about 1MHz (means a new random number every ~16µs)
 
